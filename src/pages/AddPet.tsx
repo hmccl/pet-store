@@ -1,4 +1,4 @@
-import { useState, FormEvent } from 'react';
+import { useState, type FormEvent } from 'react';
 import { useParams, useNavigate } from 'react-router';
 import { useClients } from '@/contexts/ClientContext';
 import { Button } from '@/components/ui/button';
