@@ -1,0 +1,67 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "Augusto",
+      "phone": "8888-8888",
+      "pets": [
+        {
+          "id": "1",
+          "name": "Rex",
+          "type": "Cachorro",
+          "breed": "Labrador",
+          "age": 3
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Beatriz",
+      "phone": "8899-9988",
+      "pets": [
+        {
+          "id": "2",
+          "name": "Garfield",
+          "type": "Gato",
+          "breed": "Persa",
+          "age": 5
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Maria",
+      "phone": "1188-1188",
+      "pets": [
+        {
+          "id": "3",
+          "name": "Princesa",
+          "type": "Cachorro",
+          "breed": "Poodle",
+          "age": 2
+        },
+        {
+          "id": "4",
+          "name": "Bela",
+          "type": "Gato",
+          "breed": "SRD",
+          "age": 4
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Fernando",
+      "phone": "2222-2222",
+      "pets": [
+        {
+          "id": "5",
+          "name": "Dylan",
+          "type": "Cachorro",
+          "breed": "Golden Retriever",
+          "age": 1
+        }
+      ]
+    }
+  ]
+}
